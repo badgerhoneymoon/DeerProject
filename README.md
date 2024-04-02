@@ -14,3 +14,26 @@ I'm building a deer-chasing drone system 🦌
 - FLIR Lepton 3.1R - IR camera 160x120
 
 **Language:** Python3
+
+### Set up VNC server on RPi:
+
+1. Install the VNC server on your Raspberry Pi:
+    
+    ```
+    sudo apt-get update
+    sudo apt-get install realvnc-vnc-server
+    ```
+    
+2. Configure the VNC server on your Raspberry Pi:Navigate to "Interfacing Options" > "VNC" and enable the VNC server.
+    
+    ```
+    sudo raspi-config
+    ```
+    
+3. Start the VNC server on your Raspberry Pi:
+    
+    ```
+    sudo systemctl start vncserver-x11-serviced.service
+    ```
+    
+- Install VNC client: https://www.realvnc.com/en/connect/download/viewer/raspberrypi/
