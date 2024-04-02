@@ -1,11 +1,11 @@
 # DeerProject
 ### 🎓 Problem
 
-White-tailed deer munching on the crops in fields of Delaware. I'm building a deer-chasing drone system 🦌
+🦌 White-tailed deer munching on the crops in fields of Delaware. I'm building a deer-chasing drone system. 
 
-💡Idea: a static camera spots an animal and summons a buzzing drone.
+💡 Idea: a static camera spots an animal and summons a buzzing drone.
 
-🤞If all goes well, my tenants will have one less thing to worry about with deer unharmed.
+🤞 If all goes well, my tenants will have one less thing to worry about with deer unharmed.
 
 ### Hardware
 - Drone Tello Ryze - for tests
