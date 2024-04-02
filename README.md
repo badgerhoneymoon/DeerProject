@@ -1,4 +1,7 @@
 # DeerProject
+
+**Current status**: testing a static FLIR Lepton 3.1R camera for nocturnal animals detection.
+
 ### 🎓 Problem
 
 🦌 White-tailed deer munching on the crops in fields of Delaware. I'm building a deer-chasing drone system. 
