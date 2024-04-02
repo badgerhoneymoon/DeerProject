@@ -8,7 +8,7 @@ I'm building a deer-chasing drone system 🦌
 
 🤞If all goes well, my tenants will have one less thing to worry about with deer unharmed.
 
-## Hardware
+### Hardware
 - Drone Tello Ryze - for tests
 - Raspberry Pi 4B
 - PureThermal 3
