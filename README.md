@@ -13,5 +13,4 @@ I'm building a deer-chasing drone system 🦌
 - PureThermal 3
 - FLIR Lepton 3.1R - IR camera 160x120
 
-**Language**
-  Python3
+**Language:** Python3
