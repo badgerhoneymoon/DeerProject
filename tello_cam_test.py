@@ -1,4 +1,4 @@
-#test tello camera for aruco detection
+#test tello ryze camera for aruco detection
 
 from djitellopy import Tello
 import cv2 as cv
