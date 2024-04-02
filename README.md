@@ -8,7 +8,7 @@
 🤞 If all goes well, my tenants will have one less thing to worry about with deer unharmed.
 
 ### Hardware
-- Drone Tello Ryze - for tests
+- Drone Tello Ryze - for initial testing and prototyping. Going to build a custom one with charging via induction once landed.
 - Raspberry Pi 4B
 - PureThermal 3
 - FLIR Lepton 3.1R - IR camera 160x120
