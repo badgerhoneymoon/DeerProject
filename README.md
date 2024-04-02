@@ -1,4 +1,5 @@
 # DeerProject
+### Problem
 I'm building a deer-chasing drone system 🦌
 
 🎓Problem: white-tailed deer munching on the crops in fields of Delaware.
@@ -7,15 +8,15 @@ I'm building a deer-chasing drone system 🦌
 
 🤞If all goes well, my tenants will have one less thing to worry about with deer unharmed.
 
-**Hardware**
+## Hardware
 - Drone Tello Ryze - for tests
 - Raspberry Pi 4B
 - PureThermal 3
 - FLIR Lepton 3.1R - IR camera 160x120
 
-**Language:** Python3
-
 ### Set up VNC server on RPi:
+
+To get an access to GUI of RPi you can use VNC. 
 
 1. Install the VNC server on your Raspberry Pi:
     
