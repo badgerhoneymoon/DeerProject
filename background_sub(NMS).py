@@ -1,3 +1,4 @@
+#Motion detection for Lepton 3.1R through background subtraction algorithm
 import cv2
 import numpy as np
 import logging
